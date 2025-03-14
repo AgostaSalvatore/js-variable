@@ -2,7 +2,7 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-const name = 'Salvatore Agosta';
+const name = "Salvatore Agosta";
 console.log(name);
 
 // 2. Tipi primitivi
